@@ -1,5 +1,4 @@
-﻿using System.Runtime.CompilerServices;
-using zad_dom_dzien_6;
+﻿using zad_dom_dzien_6;
 
 Employee employee1 = new Employee("Jadwiga", "Spalina");
 Employee employee2 = new Employee("Janusz", "Tracz");
